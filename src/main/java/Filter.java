@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Filter {
 
-    protected int treshold;
+    private int treshold;
 
     public Filter(int treshold) {
         this.treshold = treshold;
